@@ -1,0 +1,1 @@
+# node-seminar-decorator
